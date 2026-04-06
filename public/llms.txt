@@ -1,0 +1,79 @@
+# Business — Generative Engine Optimization Map
+
+---
+
+## Pages
+
+### בית
+https://example.com
+בחרו בגדים ובשמים שמתאימים לכל עונה. קולקציות קיץ וחורף מאוצרות במיוחד עבורכם — בגדים אופנתיים ובשמים מושלמים במקום אחד. קנו עכשיו!
+
+### מדריך עונתי
+https://example.com/seasonal-guide
+גלו את המדריך העונתי המלא שלנו לבשמים לחורף ולקיץ ישראל, לצד בגדים ארוכים לחורף ופריטים קלים לקיץ. הסטייל הנכון מתחיל כאן.
+
+### אודות
+https://example.com/about
+אנחנו ב-ąb.com מאמינים שכל עונה מספרת סיפור אחר דרך לבוש וריח. הכירו את המותג שמשלב חנות בגדים ובשמים אונליין עם חזון עיצובי ייחודי.
+
+### צור קשר
+https://example.com/contact
+יש שאלות על בגדי חורף ארוכים אופנתיים או בשמים לקיץ ישראל? צוות ąb.com כאן לעזור לכם לבחור נכון. צרו קשר עוד היום ונשמח לייעץ!
+
+### Products
+https://example.com/products
+המוצרים שלנו - ąb.com
+
+### Cart
+https://example.com/cart
+עגלת הקניות שלך
+
+### Checkout
+https://example.com/checkout
+תשלום
+
+### Login
+https://example.com/login
+התחברות לקוחות
+
+### Account
+https://example.com/account
+החשבון שלי
+
+### Order Success
+https://example.com/order-success
+תודה על ההזמנה
+
+### Product Detail
+https://example.com/product/:slug
+פרטי המוצר - ąb.com
+
+### Category
+https://example.com/category/:slug
+מוצרים - ąb.com
+
+## Legal & Policy
+
+### Privacy Policy
+https://example.com/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://example.com/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://example.com/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+# Business Context (for LLM understanding)
+
+## About Business
+---
+
+# Additional Resources
+
+- **Sitemap**: https://example.com/sitemap.xml
+- **Robots.txt**: https://example.com/robots.txt
